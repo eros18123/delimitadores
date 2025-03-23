@@ -5,6 +5,7 @@
 3 opçoes de colagem...<br>
 -colar html sem tags<br>
 -colar com tags html (aceita tb tabelas em formato markdown, convertendo pra html)<br>
+Obs: no caso de markdown, apos colar o codigo, clique no botao juntar linhas para visualizar em 1 card <br>
 -colar do excel (copia o texto do excel e qnd colar, ja fica em formatação de ponto e virgula<br><br>
 
 O ponto e virgula fica com cor amarela.<br>
